@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi there :smiley:
 
+
+Meu nome é marcus Vinicius, sou um programador Front End em formação, atualmente estou fazendo o curso Devclub e criando projetos por minha conta, tenho como meta me tornar um profissional nessa área para atuar em uma empresa de renome. 
+
+tecnologias que utilizo:
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LOGO-HTML">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="LOGO-CSS">
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="LOGO-JavaScript">
+
+<p>Entre em contato pelo Email:<p/>
+<p>Marcu.vas14@gmail.com<p/>
 <!--
 **MarcusVinicius14/MarcusVinicius14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
