@@ -1,7 +1,7 @@
 ### Hi there :smiley:
 
 
-Meu nome é marcus Vinicius, sou um programador Front End em formação, atualmente estou fazendo o curso Devclub e criando projetos por minha conta, tenho como meta me tornar um profissional nessa área para atuar em uma empresa de renome. 
+Meu nome é marcus Vinicius, sou um desenvolvedor Front End em formação, atualmente estou fazendo o curso Devclub e criando projetos por minha conta, tenho como meta me tornar um profissional nessa área para atuar em uma empresa de renome. 
 
 tecnologias que utilizo:
 
