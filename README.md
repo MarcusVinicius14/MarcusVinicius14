@@ -3,6 +3,10 @@
 
 Meu nome é marcus Vinicius, sou um desenvolvedor Front End em formação, atualmente estou fazendo o curso Devclub e atuando como freelance, Procuro ganhar novas experiências com cada projeto executado para assim me tornar um profissional mais competente e envolvido no mercado de trabalho.
 
+Atualmente tenho sólidos conhecimentos de front-end com tecnologias como: HTML, CSS, Javascript e React. Pretendo como próximo passo me especializar em back-end utilizando principalmente o Node. 
+
+Possuo projetos já criado com aplicações reais como por exemplo landing Pages, conversor de moedas, login Pages entre outros. 
+
 tecnologias que utilizo:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LOGO-HTML">
