@@ -16,11 +16,10 @@ tecnologias que utilizo:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <div/>
   <br/>
-<p>Entre em contato: 
-  Marcus.vas14@gmail.com
-  <a>linkedin.com/in/marcus-vinicius-assunção-silva/<a/>
-  
-  <p/>
+   <br/>
+<p>Entre em contato:  <p/>
+  <pMarcus.vas14@gmail.com<p/>
+  <p><a>linkedin.com/in/marcus-vinicius-assunção-silva/<a/> <p/>
 
 <!--
 **MarcusVinicius14/MarcusVinicius14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
