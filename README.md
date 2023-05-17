@@ -18,7 +18,7 @@ tecnologias que utilizo:
   <br/>
    <br/>
 <p>Entre em contato:  <p/>
-  <pMarcus.vas14@gmail.com<p/>
+  <p>Marcus.vas14@gmail.com<p/>
   <p><a>linkedin.com/in/marcus-vinicius-assunção-silva/<a/> <p/>
 
 <!--
