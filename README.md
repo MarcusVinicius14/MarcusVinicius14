@@ -1,4 +1,4 @@
-### Hi there :smiley:
+### OLÁ :smiley:
 
 
 Meu nome é marcus Vinicius, sou um desenvolvedor Front End em formação, atualmente estou fazendo o curso Devclub e atuando como freelance, Procuro ganhar novas experiências com cada projeto executado para assim me tornar um profissional mais competente e envolvido no mercado de trabalho.
