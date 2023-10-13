@@ -19,7 +19,7 @@ tecnologias que utilizo:
   <br/>
    <br/>
 <p>Entre em contato:  <p/>
-  <p>Marcus.vas14@gmail.com<p/>
+  <p>marcus.vas14@gmail.com<p/>
   <p><a>linkedin.com/in/marcus-vinicius-assunção-silva/<a/> <p/>
   <p>(48) 98816-2810 <p/>
 
